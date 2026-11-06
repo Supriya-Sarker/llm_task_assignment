@@ -1,6 +1,6 @@
-# LLM Task Assignment with Minimum-Cost Network Flow
+# Network Flow Optimization for Capacity-Constrained LLM Task Assignment
 
-Course project, Network Optimization (University of Arkansas, Fall 2026).
+Optimization project (in progress), University of Arkansas, Fall 2026.
 
 ## Problem
 Assign a batch of independent tasks to heterogeneous LLM agents within one processing window. Each task goes to exactly one eligible agent, and each agent has a task-count capacity (for example, an API quota). The goal is to minimize total expected cost, which combines price and the expected cost of wrong answers.
